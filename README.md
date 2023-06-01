@@ -76,7 +76,4 @@ You can see my resume on GitHub at
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Krr1shx&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Krr1shx&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
