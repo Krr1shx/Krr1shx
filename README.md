@@ -10,7 +10,7 @@
 ## Brief introduction
 
 Hello!  My name is [Sai Krishna Uddagiri](https://www.linkedin.com/in//sai-krishna-uddagiri) and I'm a
-software developer. I'm an currently living in the United States working for
+Software Developer. I'm an currently living in the United States working for
 [BETA CAE Systems USA](https://www.ansa-usa.com/).
 
 Besides coding, I also enjoys presenting and teaching Python), particularly in its application to
