@@ -9,7 +9,7 @@
 
 ## Brief introduction
 
-Hello!  My name is [Sai Krishna Uddagiri](https://www.linkedin.com/in//sai-krishna-uddagiri) and I'm a
+Hello!  My name is [Sai Krishna Uddagiri](https:/www.linkedin.com/in/sai-krishna-uddagiri) and I'm a
 Software Developer. I'm an currently living in the United States working for
 [BETA CAE Systems USA](https://www.ansa-usa.com/).
 
