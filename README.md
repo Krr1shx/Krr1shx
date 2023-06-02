@@ -13,8 +13,13 @@ Hello!  My name is [Sai Krishna Uddagiri](https://www.linkedin.com/in/sai-krishn
 Software Developer. I'm an currently living in the United States working for
 [BETA CAE Systems USA](https://www.ansa-usa.com/).
 
-Besides coding, I also enjoys presenting and teaching Python), particularly in its application to
-CAE and automation. 
+As a Master's in Computer Science graduate with a passion for technology, I am constantly seeking new ways to apply my skills and knowledge to real-world problems. With experience in developing applications using Python, Computer Vision, Artificial Intelligence, and Machine Learning, I have a deep understanding of how these technologies can be used to drive business growth and solve complex challenges.
+
+My expertise also extends to working with databases like SQL, Oracle, MongoDB, DynamoDb, and SQLite, which allows me to create dynamic, data-driven applications. Additionally, I can develop web and computer applications using Java and HTML/CSS, as well as write automation scripts in Python.
+
+As a highly motivated and detail-oriented individual, I am committed to delivering quality results and exceeding expectations. Whether working independently or as part of a team, I am always striving to improve my skills and take on new challenges.
+
+Besides coding, I also playing games on my computer.
 
 
 <!-- 
