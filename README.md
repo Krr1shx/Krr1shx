@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Krr1shx's+GitHub+Profile...;Nice+to+meet+you!&center=true&size=17">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+&size=17&duration=2500&pause=500&color=1ACD4E&lines=Hello,+there!+👋;This+is+Krr1shx's+GitHub+Profile...;Nice+to+meet+you!&center=true&size=17">
   </a>
 </h1>
 
@@ -21,14 +21,6 @@ As a highly motivated and detail-oriented individual, I am committed to deliveri
 
 Besides coding, I also playing games on my computer.
 
-
-<!-- 
-### My resume
-
-You can see my resume on GitHub at
-[resume](https://github.com/akaszynski/resume), built using
-[LaTeX](https://www.latex-project.org/). -->
-
 ## :handshake: Connect with me!
 
 <div align=center>
@@ -40,6 +32,9 @@ You can see my resume on GitHub at
   </a>
   <a href="mailto:uddagirisai@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" title="Outlook"/>
+  </a>
+  <a href="http://www.krish.codes">
+    <img src="https://img.shields.io/badge/krish.codes-grey?style=for-the-badge&logo=googlechrome&logoColor=white" title="Outlook"/>
   </a>
 </div>
 
