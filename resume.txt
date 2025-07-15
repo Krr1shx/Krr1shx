@@ -1,0 +1,76 @@
+Sai Krishna Uddagiri
+📧 uddarigisai@outlook.com | 📞 (248) 525 – 7025
+🔗 linkedin.com/in/sai-krishna-uddagiri
+Work Authorization: GC EAD
+
+Professional Summary
+Passionate Software Developer with over 6 years of experience in Python, with a strong background in Artificial Intelligence, including Computer Vision, Deep Learning and Natural Language Processing, along with extensive experience in Data Analysis, Software and Framework Development.
+
+Professional Experience
+Engineer II, BETA CAE Systems USA, Cadence Inc.
+Jan 2023 – Present, Farmington Hills, Michigan
+
+Provided integration and cross-platform solutions for R&D customers addressing engineering problems and internal innovation projects.
+
+Initiated CI/CD workflows in GitLab, improving code quality and maintainability by 100%.
+
+Integrated AI extensibility into ANSA software using regression and classification models, reducing user workload by 50%.
+
+Added new features to the company website, improving traffic and UX.
+
+Developed, tested, and debugged Python applications in an Agile environment.
+
+Software Engineer – Infrastructure (Storage Validation), META (formerly Facebook)
+Sep 2021 – Jan 2023, Austin, Texas
+
+Built automation software and frameworks to test/validate data server errors in data centers.
+
+Integrated remedial automation workflows into custom OS, achieving <0.5% server downtime, resulting in ~$6M quarterly profit.
+
+Delivered Python automation with 100% test coverage; used Mercurial for version control.
+
+Built advanced dashboards using UniDash; ran SQL queries with DiaQuery to analyze performance gaps.
+
+Worked closely with Product Owners and NPI teams in Release to Production team.
+
+Software Automation Intern, BETA CAE Systems USA
+Mar 2021 – Sep 2021, Farmington Hills, Michigan
+
+Automated tasks in ANSA and META software (pre/post-processing for Finite Element Analysis).
+
+Reduced engineering effort by up to 100% through Python scripting.
+
+Participated in end-to-end SDLC using Python.
+
+Developed custom application-based extensions for ANSA and META.
+
+Education
+M.S. in Information Studies
+Campbellsville University, Louisville, KY
+Aug 2024 – Present
+
+M.S. in Computer Science
+University of North Carolina at Charlotte, NC
+Jan 2020 – May 2021 | GPA: 3.8/4.0
+
+Academic Projects
+Crowd Counting using Computer Vision (Dec 2020)
+Built a CNN-based model using JHU++ dataset, achieving RMSE of 75.6 with Python, OpenCV, PyTorch, NumPy.
+
+Autonomous Driving: ALVINN – An Autonomous Land Vehicle in a Neural Network (Nov 2020)
+Trained a steering prediction model using classification + regression with Log Loss (RMSE 2.35) in Python.
+
+COVID-19 Cases Forecast: Time Series Analysis (Jun 2020)
+Forecasted COVID-19 cases using ARIMA model in Python with Scikit-learn.
+
+Study of Supervised Machine Learning Algorithms (Jun 2020)
+Presented a paper comparing ML algorithms like KNN, Naïve Bayes, Logistic Regression for healthcare, fraud, image/speech recognition, bioinformatics.
+
+Natural Language Processing (Apr 2020)
+Presented a paper on NLP stages and architecture at UNC Charlotte School of Computing.
+
+Image Processing and Machine Learning for Precision Viticulture (Jan 2019)
+Classified grape species using image data in Python with TensorFlow. Presented at JNTU Hyderabad.
+
+Medical Image Processing using Deep Learning (Oct 2018)
+Built a CNN model for medical image disease detection. Presented at JNTU Hyderabad.
